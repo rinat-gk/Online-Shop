@@ -13,6 +13,6 @@ namespace Shop.Data.Models
 
         public string description { set; get; }
 
-        public List<Car> Cars { set; get; }
+        public List<Car> сars { set; get; }
     }
 }
